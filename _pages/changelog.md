@@ -8,6 +8,10 @@ include_in_header: true
 
 ---
 
+## **Version 2.5**
+
+Version 2.5 of Playlists adds the ability to create workouts.
+
 <br>
 
 ### `Initial Release`
